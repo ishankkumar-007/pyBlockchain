@@ -15,7 +15,7 @@
 
 - Python 3.x
 - Flask
-- requests
+- requests==2.18.4
 
 ## Installation
 
